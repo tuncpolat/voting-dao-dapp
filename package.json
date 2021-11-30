@@ -1,0 +1,21 @@
+{
+  "name": "voting-dao-dapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tunç Polat",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "@openzeppelin/truffle-upgrades": "^1.11.0"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.7.0"
+  }
+}
