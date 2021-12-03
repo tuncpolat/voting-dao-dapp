@@ -6,16 +6,18 @@
 .pnp.js
 
 # testing
-/coverage
+client/coverage
 
 # next.js
-/.next/
-/out/
+client/.next/
+client/out/
 
 /node_modules
+client/node_modules
 
 # production
 /build
+client/build
 /slides
 
 # misc
