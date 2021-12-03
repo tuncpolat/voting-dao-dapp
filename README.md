@@ -49,5 +49,11 @@ Now you should get the contract address of the factory contract. Copy this addre
 
 Open an account and create a project. Go to the settings of the project and set the network to ropsten. Copy the token (https://ropsten.infura.io/ws/v3/hereIsYourToken) and insert it into the .env file you created before, so you can access the contract on the ropsten testnetwork through the Infura API. 
 
+## Disclosure
+
+To learn Solidity and the concepts behind it we attended the class from Fabian Schär "Smart Contracts and Decentralized Blockchain Applications" and a course on Udemy "Ethereum and Solidity: The Complete Developer's Guide" by Stephen Grider.
+Concepts like "ProposalFactory", "getSummary" and how to implement a front-end with Nextjs were demonstrated in the Udemy course. Concepts like block.timestamp was demonstrated in Fabian Schär's course.
+Idea and the code are original from the group work. We are not aware of any copies.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
